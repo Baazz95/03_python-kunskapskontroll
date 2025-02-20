@@ -5,3 +5,5 @@ kunskapskontroll1_1 = file 1 for first kunskapskontroll containing numpy related
 kunskapskontroll1_2 = file 2 for first kunskapskontroll containing matplotlib related questions. 
 
 kunskapskontroll1_3 = file 3 for first kunskapskontroll containing pandas related questions.
+
+GRADE RESULT: VG (Väl godkänt)
